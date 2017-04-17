@@ -1,0 +1,14 @@
+.add-button {
+	background: none repeat scroll 0 0 #e0e0e0;
+	border: 0 none;
+	border-radius: 2px;
+	font-size: 13px;
+	font-weight: 600;
+	margin-left: 20px;
+	padding: 4px 25px;
+	position: relative;
+	text-decoration: none;
+	text-shadow: none;
+	top: 0px;
+	cursor: pointer;
+}
